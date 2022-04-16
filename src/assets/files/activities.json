@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "Primitive Training",
+            "description": "Smart Holistic Training",
+            "image": "primitive.jpg"
+        },
+        {
+            "name": "Marcial Box",
+            "description": "Fitness de Combate - Fit Box and Marcial Training",
+            "image": "marcial.jpg"
+        },
+        {
+            "name": "Boxing",
+            "description": "Boxing techniques and movements. Trainings according to level",
+            "image": "box.jpg"
+        },
+        {
+            "name": "Taekwondo",
+            "description": "Specific training. Forms and fights, both physical and technical",
+            "image": "taekwondo.JPG"
+        }
+    ]
+}

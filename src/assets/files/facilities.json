@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "name": "Reception",
+            "image": "Reception.jpg"
+        },
+        {
+            "name": "Temple",
+            "image": "Temple.jpg"
+        },
+        {
+            "name": "Park",
+            "image": "Park.jpg"
+        },
+        {
+            "name": "Domo",
+            "image": "Domo.jpg"
+        }
+    ]
+}
